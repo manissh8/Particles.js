@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: rgb(0, 0, 0);
+  
+}
+#particles-js{
+  height: 100%;
+  width: 100%;
+}
+h1{
+  position: absolute;
+  top: 43%;
+  left: 43%;
+  color: white;
+}
